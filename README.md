@@ -1,16 +1,17 @@
-## Hi there 👋
+Boas indas ao meu perfil
 
-<!--
-**r0drigues999/r0drigues999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Carlos Eduardo Vieira Rodrigues
 
-Here are some ideas to get you started:
+ -estou estudando na alura
+ -estou terminando o 1 ano do ensino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - estou usando esse espaço pra entregar meus projetos realizados
+-  medalhista nas olimpiadas de matematica🥈
+ - ### ENTRAR EM CONTATO COMIGO:
+
+ - 00001083984251SP@AL.EDUCACAO.GOV.SP.BR
+
+
+![](![image](https://github.com/user-attachments/assets/d927b81e-c167-45b5-bef3-a84885d5b677)
+
+
